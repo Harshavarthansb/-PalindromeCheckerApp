@@ -1,5 +1,16 @@
+
 public class PalindromeCheckerApp {
+
+    /**
+     * Application entry point.
+     * This method is executed first when the program starts.
+     */
+
+    public static void main(String[] args) {
+
+        System.out.println("Welcome to the Palindrome Checker Management System");
+        System.out.println("Version : 1.0");
+        System.out.println("System initialized successfully.");
+
+    }
 }
-/*git config --global user.name "Harshavarthansb"
-git config --global user.email "hs2625@srmist.edu.in"
-git remote add originhttps://github.com/Harshavarthansb/-PalindromeCheckerApp
